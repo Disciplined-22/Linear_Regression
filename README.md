@@ -1,4 +1,4 @@
-# Linear Regression Example
+# Linear Regression using synthetic data
 
 This is a simple example demonstrating linear regression using synthetic data. The code generates synthetic data, splits it into training and testing sets, trains a linear regression model, makes predictions, and evaluates the model's performance.
 
