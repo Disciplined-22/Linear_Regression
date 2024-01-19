@@ -10,7 +10,7 @@ To run this example locally or in a Jupyter notebook, make sure you have the req
 pip install numpy matplotlib scikit-learn
 ```
 ## Code Structure
-linear_regression_example.py: Python script containing the linear regression code.
+main.py: Python script containing the linear regression code.
 
 ## Output
 After running the script, you will see a scatter plot of the actual data points and the linear regression line. Evaluation metrics (Mean Squared Error and R-squared) will be printed to the console.
